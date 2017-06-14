@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bpr.route.RouteApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 23.231 sec - in com.bpr.route.RouteApplicationTests
